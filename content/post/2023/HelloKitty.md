@@ -4,9 +4,9 @@ date: 2023-03-27T03:02:52+08:00
 lastmod: 2023-02-13T03:02:52+08:00
 description: 人生意何存
 tags:
-  - 哲学
+  - 普罗米基本变形定律
 categories:
-  - 甘普基本
+  - 甘普基本变形定律
 image: 
 slug: stack-theme-mod
 
