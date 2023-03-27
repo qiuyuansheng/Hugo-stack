@@ -6,7 +6,7 @@ description: sunzijie
 tags:
   - Hugo
 categories:
-  - 甘普基本变形定律
+  - 甘普基本变形定
 image: 
 slug: stack-theme-mod
 
