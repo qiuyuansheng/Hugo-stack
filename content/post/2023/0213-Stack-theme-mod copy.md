@@ -1,5 +1,5 @@
 ---
-title: "666"
+title: "不立文字 直指人心"
 date: 2023-02-13T03:02:52+08:00
 lastmod: 2023-02-13T03:02:52+08:00
 description: sunzijie
