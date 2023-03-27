@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 心有猛虎，细嗅蔷薇
         avatar:
             enabled: true
             local: true
