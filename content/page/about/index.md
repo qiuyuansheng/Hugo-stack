@@ -16,6 +16,7 @@ menu:
 ---
 
 > 关于我
+<img  src=https://github-readme-stats.vercel.app/api?username=sunzijie&show_icons=true&theme=tokyonight>
     </li>知行合一的理想主义者</li>
     </li>温和坚定的自由主义者</li>
     </li>骄傲谦逊的理性主义者</li>
