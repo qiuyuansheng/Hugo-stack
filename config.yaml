@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 心有猛虎，细嗅蔷薇
+        subtitle: Stay hungry, stay foolish.
         avatar:
             enabled: true
             local: true
