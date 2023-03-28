@@ -13,5 +13,7 @@ slug: stack-theme-mod
 ---
 <br>
     kms.loli.best
+    <img src="https://raw.githubusercontent.com/Sunzijie/picgo/master/head.png?token=AODRX3YWWDHQQEOUA3IDQKLEEJCZG"/>
+    
 
 <br>
