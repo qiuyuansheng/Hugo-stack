@@ -47,6 +47,7 @@ Github仓库地址：[Mantyke](https://github.com/Mantyke)/[stack-theme-mod](htt
 ### 引用样式短代码
 
 （注：实际使用请补全花括号
+<span class="blur">是高斯模糊呐~ </span>
 
 ```fallback
 {< quote >}}}
