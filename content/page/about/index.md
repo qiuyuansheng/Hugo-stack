@@ -21,7 +21,7 @@ menu:
 - 温和坚定的自由主义者
 - 骄傲谦逊的理性主义者
 <br>
-https://moe-counter.glitch.me/get/@sunzijie?theme=moeboorumoebooru
+<img src="https://moe-counter.glitch.me/get/@sunzijie?theme=moeboorumoebooru">
 <img src="https://github-readme-stats.vercel.app/api?username=sunzijie&show_icons=true&theme=tokyonight" width="50%" align="center" />
 
 moeboorumoebooru
