@@ -12,7 +12,9 @@ slug: stack-theme-mod
 
 ---
 {{< quote >}}
+
 摘要： 本文介绍了如何使用软路由配置爱快为主路由，OpenWrt 作为旁路网关，并在OpenWrt中实现DNS去广告和国内外流量分流，同时应用全锥形NAT以便于PCDN运行。文章重点介绍了如何配置双ADG配合SSRP，实现国内外DNS分流，并给出了具体的配置方法。
+
 {{< /quote >}}
 
 <br>
