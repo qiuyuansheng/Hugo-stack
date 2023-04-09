@@ -20,9 +20,9 @@ slug: stack-theme-mod
 <span class="blur">是高斯模糊呐~ </span>
 <br>
 
-{< quote >}}}
+{{< quote >}}
 有节制的饮食能延长生命，放纵食欲就缩短生命。
-{< quote >}}}
+{{< /quote >}}
 
 <br>
 本文探讨软路由配置爱快为主路由，OpenWrt 作为旁路网关的设置。并且OpenWrt 提供 DNS 去广告和国内外分流。整个网络单层 NAT，并设置为全锥形 NAT 便于 PCDN 的运行。
