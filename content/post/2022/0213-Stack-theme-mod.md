@@ -1,12 +1,12 @@
 ---
-title: "Hugo | Hugo-stack-theme主题魔改版"
+title: "关于Hugo | Hugo-stack"
 date: 2022-03-15T03:02:52+08:00
 lastmod: 2022-03-15T03:02:52+08:00
-description: 问的人比较多，我又比较懒，干脆做了一套样板间。
+description: 基于huho搭建的博客。
 tags:
   - Hugo
 categories:
-  - 甘普基本变形定律
+  - 甘博客
 image: 
 slug: stack-theme-mod
 
@@ -22,7 +22,7 @@ Github仓库地址：[Mantyke](https://github.com/Mantyke)/[stack-theme-mod](htt
 
 ## 使用方式
 
-**从零建立博客**：Fork仓库到自己账号下，用Github 注册 Vercel，依次点击Overview → New Project → import刚刚Fork的仓库，设置`FRAMEWORK PRESET`为Hugo → 点击`Environment Variables`，设置`NAME`为`HUGO_VERSION`，`Value`为`Hugo版本号（如0.89.0）` → 点击Add → 点击Deploy，稍等十来秒即可部署完成。下载仓库到本地后使用Github Desktop更新文章。（注，本地预览需安装Hugo，具体请参照[Hugo | 一起动手搭建个人博客吧](https://mantyke.icu/2021/hugo-build-blog/)相关内容）
+**从零建立博客**：Fork仓库到自己账号下，用Github 注册 Vercel，依次点击Overview → New Project → import刚刚Fork的仓库，设置`FRAMEWORK PRESET`为Hugo → 点击`Environment Variables`，设置`NAME`为`HUGO_VERSION`，`Value`为`Hugo版本号（如0.89.0）` → 点击Add → 点击Deploy，稍等十来秒即可部署完成。下载仓库到本地后使用Github Desktop更新文章。（注，本地预览需安装Hugo，具体请参照hugo相关内容）
 
 **旧博客更换主题**：不同主题方式不同，推荐只保留原博客的content文件夹，迁移到本仓库content文件夹后再按情况调整。
 
@@ -32,7 +32,7 @@ Github仓库地址：[Mantyke](https://github.com/Mantyke)/[stack-theme-mod](htt
 
 ## 魔改内容
 
-- 调整文章页面为三栏显示（代码来自[ShadowySpirits](https://github.com/ShadowySpirits/hugo-theme-stack)）
+- 调整文章页面为三栏显示
 - 文章按年份分类
 - 增加文章字数统计与站点总字数、总篇数显示
 - 修改全站字体为思源宋体
@@ -198,6 +198,6 @@ style:
 
 <br>
 
-    如果您喜欢或使用这个魔改版主题成功搭建了自己的个人博客，欢迎到我的[个人博客](https://mantyke.icu/2022/stack-theme-mod/)中留言告诉我，我会很开心的！
+    如果您喜欢或使用这个魔改版主题成功搭建了自己的个人博客，欢迎到我的[个人博客](sunzijie.cn)中留言告诉我，我会很开心的！
 
 <br>
