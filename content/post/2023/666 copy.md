@@ -46,3 +46,4 @@ OpenWrt 的动态伪装就是 NAT，开了之后会多一层 NAT，一定要关�
 
 ### 配置 dnsmasq
 进入到 OpenWrt 的 「网络」 - 「DHCP/DNS」，DNS 转发应该只有 ADG 的地址。我这边就是 `127.0.0.1#6053`，没有其他转发了。
+<br>
