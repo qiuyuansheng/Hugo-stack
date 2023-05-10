@@ -1,5 +1,5 @@
 ---
-title: Chinese Test
+title: Chinese 666
 description: 这是一个副标题
 date: 2023-09-09
 slug: test-chinese
