@@ -1,9 +1,9 @@
 ---
-title: Chinese Test
+title: 测试页面
 description: 这是一个副标题
-date: 2020-09-09
+date: 2023-05-16
 slug: test-chinese
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+image: mmexport1684125805561.jpg
 categories:
     - Test
     - 测试
