@@ -1,6 +1,6 @@
 ---
 title: 尘归尘，土归土，一切也将隐入尘烟
-description: 隐入尘烟观后感
+description: 《隐入尘烟》观后感
 date: 2023-05-09
 slug: test-chinese
 image: 1.png
