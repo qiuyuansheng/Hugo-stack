@@ -1,12 +1,11 @@
 ---
 title: 测试页面
-description: 这是一个副标题
+description: 隐入尘烟观后感
 date: 2023-05-09
 slug: test-chinese
 image: 1.png
 categories:
-    - Test
-    - 测试
+    - 文学
 ---
 ## 二级标题
 {{< quote >}}
