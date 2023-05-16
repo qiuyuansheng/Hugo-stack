@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:img/head.png
+    favicon: albb.svg
 
     footer:
         since: 2020
