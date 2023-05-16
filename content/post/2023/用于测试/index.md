@@ -3,7 +3,7 @@ title: 测试页面
 description: 这是一个副标题
 date: 2023-05-09
 slug: test-chinese
-image: 1.jpg
+image: 1.png
 categories:
     - Test
     - 测试
