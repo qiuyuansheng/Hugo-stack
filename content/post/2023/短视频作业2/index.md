@@ -2,7 +2,7 @@
 title: 短视频作业2
 description: lcx
 date: 2023-05-26
-slug: test-chi
+slug: lcx
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Test
