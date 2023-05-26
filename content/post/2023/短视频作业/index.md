@@ -1,6 +1,6 @@
 ---
 title: 短视频作业
-description: ....
+description: 111
 date: 2023-05-20
 slug: zy
 image: 1.png
