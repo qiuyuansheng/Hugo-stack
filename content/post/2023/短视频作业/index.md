@@ -14,7 +14,7 @@ categories:
 {{< video sd.mp4 >}}
 
 <br>
-{{< video https://s138.ananas.chaoxing.com/sv-w8/video/a7/f0/8b/a634c1ad5e7995e86101fb09e94676a4/sd.mp4 >}}
+{{< video https://s138.ananas.chaoxing.com/sv-w8/video/a7/f0/8b/a634c1ad5e7995e86101fb09e94676a4 >}}
 <br>
 
 {{< quote >}}
