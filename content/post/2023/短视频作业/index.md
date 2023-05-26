@@ -3,7 +3,7 @@ title: 短视频作业
 description: 《隐入尘烟》观后感
 date: 2023-05-20
 slug: zy
-image: 1.jpg
+image: 1.png
 categories:
     - 摄影
 ---
