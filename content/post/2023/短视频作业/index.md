@@ -2,7 +2,7 @@
 title: 短视频作业
 description: 111
 date: 2023-05-20
-slug: zy
+slug: yrcy1
 image: 1.png
 categories:
     - 摄影
