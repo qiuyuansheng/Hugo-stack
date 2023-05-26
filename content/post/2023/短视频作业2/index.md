@@ -1,5 +1,5 @@
 ---
-title: 短视频作业2
+title: 短视频作业
 description: lcx
 date: 2023-05-26
 slug: lcx
