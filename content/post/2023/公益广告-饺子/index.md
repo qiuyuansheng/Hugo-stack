@@ -1,7 +1,7 @@
 ---
 title: 公益广告-饺子
 description: 短视频作业
-date: 2023-06-01
+date: 2023-05-31
 slug: gygg
 image: 1.png
 categories:
