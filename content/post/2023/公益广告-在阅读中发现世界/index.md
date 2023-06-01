@@ -1,7 +1,7 @@
 ---
 title: 公益广告-在阅读中发现世界
 description: 短视频作业
-date: 2023-06-02
+date: 2023-06-01
 slug: gygg3
 image:
 categories:
