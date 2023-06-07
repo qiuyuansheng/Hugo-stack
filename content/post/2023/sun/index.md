@@ -15,3 +15,5 @@ categories:
 
 最后，再次向管理学院全体师生表示衷心的祝贺和美好的祝愿，愿您们在未来的征程中，继续拼搏、奋斗，为实现中国梦而努力！
 
+
+[高清观看](https://s138.ananas.chaoxing.com/sv-w8/video/99/75/9c/24732232794a114a18362a24b1e3cc00/sd.mp4?at_=1686149734699&ak_=1c4bff5fe7ed6679b096a96fbc040917&ad_=aa270a0c89cb6e7c5d7f5b2d66a1f0ec)
