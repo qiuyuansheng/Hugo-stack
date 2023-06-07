@@ -10,3 +10,4 @@ categories:
 ---
 
 ![每日一语](中每日一语2023-1-27.jpg)
+![from Telegram](苟利国家生死以.jpg)
